@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
 
+<p align="center">
 - 🔭 I’m currently working on [Korumghar](https://korumghar.link)
 
 - 🌱 I’m currently learning **Flutter, CodeIgnitor, Voyager**
@@ -18,7 +19,7 @@
 - 📄 Know about my experiences [https://hybridoitc.com](https://hybridoitc.com)
 
 - ⚡ Fun fact **Slightly assholic at first sight 🤒 XD.**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hybridoitc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hybridoitc" height="30" width="40" /></a>
