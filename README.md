@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Misbah Ur Rehman</h1>
 <h3 align="center">Slightly assholic at first sight 🤒 XD.Actually a nice self taught individual who just likes to get stuff done. CEO / Founder HYBRIDOITC</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
+<p align="left"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
 
 - 🔭 I’m currently working on [Korumghar](https://korumghar.link)
 
