@@ -5,19 +5,26 @@
 
 <p align="center">
 - 🔭 I’m currently working on [Korumghar](https://korumghar.link)
-
+</p>
+<p align="center">
 - 🌱 I’m currently learning **Flutter, CodeIgnitor, Voyager**
-
+</p>
+<p align="center">
 - 🤝 I’m looking for help with [Rozatulquran](http://rozatulquran.hybridoitc.com)
-
+</p>
+<p align="center">
 - 👨‍💻 All of my projects are available at [https://hybridoitc.com](https://hybridoitc.com)
-
+</p>
+<p align="center">
 - 💬 Ask me about **Laravel, Android, GCP, API's, Hosting,**
-
+</p>
+<p align="center">
 - 📫 How to reach me **hybridoitc@gmail.com**
-
+</p>
+<p align="center">
 - 📄 Know about my experiences [https://hybridoitc.com](https://hybridoitc.com)
-
+</p>
+<p align="center">
 - ⚡ Fun fact **Slightly assholic at first sight 🤒 XD.**
 </p>
 <h3 align="center">Connect with me:</h3>
