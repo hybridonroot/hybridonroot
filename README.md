@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misbah Ur Rehman</h1>
-<h3 align="center">Slightly assholic at first sight 🤒 XD.Actually a nice self taught individual who just likes to get stuff done. CEO / Founder HYBRIDOITC</h3>
+<h3 align="center">Full Stack Dev From the mountains. Market Experience of almost 5 years & currently Operating as (CEO) & Founder at Hybridoitc (CTO) & Founder at KMONEY</h3>
 
 
 <p align="center">
