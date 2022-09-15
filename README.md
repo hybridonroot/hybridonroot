@@ -3,10 +3,10 @@
 
 
 <p align="center">
-- 🔭 I’m currently working on [Korumghar](https://korumghar.link)
+- 🔭 I’m currently working on [Korumghar](https://korumghar.net)
 </p>
 <p align="center">
-- 🌱 I’m currently learning **Flutter, CodeIgnitor, Voyager**
+- 🌱 I’m currently learning **Vue js, React Native**
 </p>
 <p align="center">
 - 🤝 I’m looking for help with [Rozatulquran](http://rozatulquran.hybridoitc.com)
@@ -15,16 +15,16 @@
 - 👨‍💻 All of my projects are available at [https://hybridoitc.com](https://hybridoitc.com)
 </p>
 <p align="center">
-- 💬 Ask me about **Laravel, Android, GCP, API's, Hosting,**
+- 💬 Ask me about ** Anything **
 </p>
 <p align="center">
-- 📫 How to reach me **hybridoitc@gmail.com**
+- 📫 How to reach me **ceo@hybridoitc.com**
 </p>
 <p align="center">
 - 📄 Know about my experiences [https://hybridoitc.com](https://hybridoitc.com)
 </p>
 <p align="center">
-- ⚡ Fun fact **Slightly assholic at first sight 🤒 XD.**
+- ⚡ Fun fact **Self taught individual wwith more than 5 year of experience.**
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybridoitc&" alt="hybridoitc" /></p>
