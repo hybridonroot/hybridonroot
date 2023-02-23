@@ -30,7 +30,6 @@
 - ⚡ Fun fact **Self taught individual wwith more than 5 year of experience.**
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybridoitc&" alt="hybridoitc" /></p>
 <p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybridoitc&show_icons=true&locale=en&layout=compact" alt="hybridoitc" /></p>
