@@ -29,10 +29,10 @@
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I know that I know  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
