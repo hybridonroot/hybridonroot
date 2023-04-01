@@ -1,16 +1,39 @@
-<h1 align="center">Meet Me .! Misbah Ur Rahman</h1>
-<h3 align="center">Working on the world of 0's and 1's Since my childhood. Mixture of passsion and profession.</h3>
+## Meet Me .! Misbah Ur Rahman.  
+  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+<a href="https://github.com/haxgenesis" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/haxgenesis" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/haxgenesis" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/haxgenesis" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/haxgenesis" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/haxgenesis" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-- 💬 Ask me about **Anything**
+- 🔭 I’m currently working on [CreditPay](https://cp.atyourservice.store),[Durghair| Northern Real Estate](https://re.atyourservice.store),[HAXGENESIS](https://cp.atyourservice.store)  
+  
 
-- 📫 How to reach me **miso.er22@gmail.com**
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
 
+- ⚡ Fun fact: I use tabs over spaces  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/fgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fgh" height="30" width="40" /></a>
@@ -21,9 +44,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hybridoitc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hybridoitc" /></a><a href="https://ko-fi.com/hybridoitc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hybridoitc" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybridoitc&show_icons=true&locale=en&layout=compact" alt="hybridoitc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hybridoitc&show_icons=true&locale=en" alt="hybridoitc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybridoitc&" alt="hybridoitc" /></p>
