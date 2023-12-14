@@ -22,7 +22,7 @@
 </div>  
   
 
-- 🔭 I’m currently working on [CreditPay],[Durghair| Northern Real Estate](https://re.atyourservice.store),[HAXGENESIS]
+- 🔭 I’m currently working on [CreditPay],[Suruperu] | Northern Real Estate],[HAXGENESIS]
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -35,7 +35,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/fgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fgh" height="30" width="40" /></a>
+<a href="https://dev.to/hybridoitc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fgh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
