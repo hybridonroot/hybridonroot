@@ -16,19 +16,7 @@
 <a href="https://medium.com/@hybridonroot" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-- 🔭 I’m currently working on [CreditPay],[Suruperu] | Northern Real Estate],[HAXGENESIS]
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything
-  
-
-- ⚡ Fun fact: I know that I know  
+</div>   
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
