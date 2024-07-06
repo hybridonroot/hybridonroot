@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.upwork.com/freelancers/hybrid_on_root" target="blank"><img align="center" src="https://apploye.com/blog/content/images/size/w2000/2023/09/alternatives-of-upwork.png" height="32" width="65" /></a>
+<a href="https://www.upwork.com/freelancers/hybridonroot" target="blank"><img align="center" src="https://apploye.com/blog/content/images/size/w2000/2023/09/alternatives-of-upwork.png" height="32" width="65" /></a>
 <a href="https://dev.to/hybridoitc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fgh" height="30" width="40" /></a>
 </p>
 
